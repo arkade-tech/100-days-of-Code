@@ -1,0 +1,14 @@
+# Compiled C files
+*.o
+*.out
+
+# Executable files
+question1
+question2
+
+# VS Code
+.vscode/
+
+# Other compiled executables
+*.exe
+
