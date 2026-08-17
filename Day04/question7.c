@@ -16,7 +16,7 @@ After swap: 14 7
 #include <stdio.h>
 int main(){
 	int a , b;
-	printf("Enter two numbers :");5
+	printf("Enter two numbers :");
 	scanf("%d %d",&a,&b);
 	
 	a = a ^ b;
