@@ -17,15 +17,15 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 
 ## 📂 Repository Structure
 
-```text
-.
-├── Day01/          # Basic Syntax, I/O Operations, Operators
-├── Day02/          # Conditionals & Decision Making
-├── Day03/          # Loops & Iteration Constructs
-├── Day04/          # Patterns & Nested Logic
-├── Day05/          # Functions & Scope
-├── Day06/          # 1D Arrays & Linear Searching
-├── Day07/          # Multidimensional Arrays & Matrix Operations
-├── Day08/          # Strings & Pointer Fundamentals
-├── LICENSE         # Dual MIT / GNU GPLv3 License
-└── README.md
+## 📂 Repository Structure
+
+- 📁 [Day01/](./Day01) 
+- 📁 [Day02/](./Day02) 
+- 📁 [Day03/](./Day03) 
+- 📁 [Day04/](./Day04) 
+- 📁 [Day05/](./Day05) 
+- 📁 [Day06/](./Day06) 
+- 📁 [Day07/](./Day07) 
+- 📁 [Day08/](./Day08) 
+- 📄 [LICENSE](./LICENSE) — Dual MIT / GNU GPLv3 License
+- 📄 [README.md](./README.md) — Documentation
