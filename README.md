@@ -9,8 +9,8 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 ---
 
 ## 🎯 Objectives
-* Master low-level memory allocation, pointers, and memory manipulation.
-* Implement fundamental data structures and algorithmic patterns in standard C.
+* Practice C programming every day and understand programming concepts through practical problems.
+* Implement fundamental logical and problem-solving skills in standard C.
 * Practice clean code, consistent documentation, and strict compilation checks.
 
 ---
