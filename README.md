@@ -15,7 +15,6 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 
 ---
 
-## 📂 Repository Structure
 
 ## 📂 Repository Structure
 
