@@ -1,7 +1,7 @@
 # 100 Days of Code — C Programming Challenge
 
 [![Language: C](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Progress: 8/100](https://img.shields.io/badge/Progress-8%2F100%20Days-brightgreen.svg)](#-progress-log)
+[![Progress: 9/100](https://img.shields.io/badge/Progress-9%2F100%20Days-brightgreen.svg)](#-progress-log)
 [![License: MIT / GPL-3.0](https://img.shields.io/badge/License-MIT%20%2F%20GPL--3.0-blue.svg)](LICENSE)
 
 A dedicated repository containing daily problem solutions, algorithmic challenges, and memory management implementations in C.
