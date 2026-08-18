@@ -25,6 +25,7 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 - 📁 [Day05/](./Day05) 
 - 📁 [Day06/](./Day06) 
 - 📁 [Day07/](./Day07) 
-- 📁 [Day08/](./Day08) 
+- 📁 [Day08/](./Day08)
+- 📁 [Day09/](./Day09)
 - 📄 [LICENSE](./LICENSE) — Dual MIT / GNU GPLv3 License
 - 📄 [README.md](./README.md) — Documentation
