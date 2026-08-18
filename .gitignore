@@ -12,3 +12,4 @@ question2
 # Other compiled executables
 *.exe
 
+bin/
