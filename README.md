@@ -29,3 +29,45 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 - 📁 [Day09/](./Day09)
 - 📄 [LICENSE](./LICENSE) — Dual MIT / GNU GPLv3 License
 - 📄 [README.md](./README.md) — Documentation
+
+
+
+## 📂 Repository Structure
+```text
+.
+├── Day01(./Day01)
+│   ├── question1.c
+│   └── question2.c
+├── Day02
+│   ├── question3.c
+│   └── question4.c
+├── Day03
+│   ├── question5.c
+│   └── question6.c
+├── Day04
+│   ├── question7.c
+│   ├── question7.o
+│   ├── question8.c
+│   └── question8.o
+├── Day05
+│   ├── question10.c
+│   └── question9.c
+├── Day06
+│   ├── question11.c
+│   └── question12.c
+├── Day07
+│   ├── question13.c
+│   └── question14.c
+├── Day08
+│   ├── question15.c
+│   └── question16.c
+├── Day09
+│   ├── question17.c
+│   └── question18.c
+├── gitignore.txt
+├── LICENSE
+├── Makefile
+└── README.md
+
+
+```
