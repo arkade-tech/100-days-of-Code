@@ -16,26 +16,12 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 ---
 
 
-## 📂 Repository Structure
-
-- 📁 [Day01/](./Day01) 
-- 📁 [Day02/](./Day02) 
-- 📁 [Day03/](./Day03) 
-- 📁 [Day04/](./Day04) 
-- 📁 [Day05/](./Day05) 
-- 📁 [Day06/](./Day06) 
-- 📁 [Day07/](./Day07) 
-- 📁 [Day08/](./Day08)
-- 📁 [Day09/](./Day09)
-- 📄 [LICENSE](./LICENSE) — Dual MIT / GNU GPLv3 License
-- 📄 [README.md](./README.md) — Documentation
-
 
 
 ## 📂 Repository Structure
 ```text
 .
-├── Day01(./Day01)
+├── Day01
 │   ├── question1.c
 │   └── question2.c
 ├── Day02
@@ -46,9 +32,7 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 │   └── question6.c
 ├── Day04
 │   ├── question7.c
-│   ├── question7.o
-│   ├── question8.c
-│   └── question8.o
+│   ├── question8.c
 ├── Day05
 │   ├── question10.c
 │   └── question9.c
@@ -71,3 +55,23 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 
 
 ```
+
+
+
+
+## 📂 Repository Structure
+
+- 📁 [Day01/](./Day01) 
+- 📁 [Day02/](./Day02) 
+- 📁 [Day03/](./Day03) 
+- 📁 [Day04/](./Day04) 
+- 📁 [Day05/](./Day05) 
+- 📁 [Day06/](./Day06) 
+- 📁 [Day07/](./Day07) 
+- 📁 [Day08/](./Day08)
+- 📁 [Day09/](./Day09)
+- 📄 [LICENSE](./LICENSE) — Dual MIT / GNU GPLv3 License
+- 📄 [README.md](./README.md) — Documentation
+
+
+
