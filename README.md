@@ -1,7 +1,7 @@
 # 100 Days of Code — C Programming Challenge
 
 [![Language: C](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Progress: 10/100](https://img.shields.io/badge/Progress-10%2F100%20Days-brightgreen.svg)](#-progress-log)
+[![Progress: 11/100](https://img.shields.io/badge/Progress-11%2F100%20Days-brightgreen.svg)](#-progress-log)
 [![License: MIT / GPL-3.0](https://img.shields.io/badge/License-MIT%20%2F%20GPL--3.0-blue.svg)](LICENSE)
 
 A dedicated repository containing daily problem solutions, algorithmic challenges, and memory management implementations in C.
@@ -47,16 +47,19 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 │   ├── question15.c
 │   └── question16.c
 ├── Day09
-│   ├── question
 │   ├── question17.c
 │   └── question18.c
 ├── Day10
 │   ├── question19.c
 │   └── question20.c
+├── Day11
+│   ├── question21.c
+│   └── question22.c
 ├── gitignore.txt
 ├── LICENSE
 ├── Makefile
 └── README.md
+
 
 
 
@@ -77,6 +80,7 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 - 📁 [Day08/](./Day08)
 - 📁 [Day09/](./Day09)
 - 📁 [Day10/](./Day10)
+- 📁 [Day11/](./Day11)
 - 📄 [LICENSE](./LICENSE) — Dual MIT / GNU GPLv3 License
 - 📄 [README.md](./README.md) — Documentation
 
