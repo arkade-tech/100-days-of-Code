@@ -2,7 +2,7 @@
 
 [![Language: C](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Progress: 12/100](https://img.shields.io/badge/Progress-12%2F100%20Days-brightgreen.svg)](#-progress-log)
-[![Coverage: 12%](https://img.shields.io/badge/Coverage-12%25-orange)] ( #-coverage-till today)
+[![Coverage: 12%](https://img.shields.io/badge/Coverage-12%25-orange)
 [![License: MIT / GPL-3.0](https://img.shields.io/badge/License-MIT%20%2F%20GPL--3.0-blue.svg)](LICENSE)
 
 A dedicated repository containing daily problem solutions, algorithmic challenges, and memory management implementations in C.
