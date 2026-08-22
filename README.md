@@ -1,8 +1,13 @@
 # 100 Days of Code — C Programming Challenge
 
 [![Language: C](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Progress: 12/100](https://img.shields.io/badge/Progress-12%2F100%20Days-brightgreen.svg)](#-progress-log)
- ![Coverage: 12%](https://img.shields.io/badge/Coverage-12%25-orange)
+[![Progress: 13/100](https://img.shields.io/badge/Progress-13%2F100%20Days-brightgreen.svg)](#-progress-log)
+ ![Coverage: 13%](https://img.shields.io/badge/Coverage-13%25-orange)
+ 
+ [![Compiler: GCC](https://img.shields.io/badge/Compiler-GCC-00599C?style=flat&logo=gnu)](https://gcc.gnu.org/)
+[![Platform: Linux](https://img.shields.io/badge/Platform-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Last Commit](https://img.shields.io/github/last-commit/arkade-tech/100-days-of-Code?color=brightgreen&style=flat)](https://github.com/YOUR_USERNAME/YOUR_REPO/commits/main)
+ 
 [![License: MIT / GPL-3.0](https://img.shields.io/badge/License-MIT%20%2F%20GPL--3.0-blue.svg)](LICENSE)
 
 A dedicated repository containing daily problem solutions, algorithmic challenges, and memory management implementations in C.
@@ -59,13 +64,13 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 ├── Day12
 │   ├── question23.c
 │   └── question24.c
+├── Day13
+│   ├── question25.c
+│   └── question26.c
 ├── gitignore.txt
 ├── LICENSE
 ├── Makefile
 └── README.md
-
-
-
 
 ```
 
@@ -86,6 +91,7 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 - 📁 [Day10/](./Day10)
 - 📁 [Day11/](./Day11)
 - 📁 [Day12/](./Day12)
+- 📁 [Day13/](./Day13)
 - 📄 [LICENSE](./LICENSE) — Dual MIT / GNU GPLv3 License
 - 📄 [README.md](./README.md) — Documentation
 
