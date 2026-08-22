@@ -6,7 +6,7 @@
  
  [![Compiler: GCC](https://img.shields.io/badge/Compiler-GCC-00599C?style=flat&logo=gnu)](https://gcc.gnu.org/)
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
-[![Last Commit](https://img.shields.io/github/last-commit/arkade-tech/100-days-of-Code?color=brightgreen&style=flat)](https://github.com/YOUR_USERNAME/YOUR_REPO/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/arkade-tech/100-days-of-Code?color=orange&style=flat)](https://github.com/YOUR_USERNAME/YOUR_REPO/commits/main)
  
 [![License: MIT / GPL-3.0](https://img.shields.io/badge/License-MIT%20%2F%20GPL--3.0-blue.svg)](LICENSE)
 
