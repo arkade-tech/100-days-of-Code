@@ -1,8 +1,8 @@
 # 100 Days of Code — C Programming Challenge
 
 [![Language: C](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Progress: 13/100](https://img.shields.io/badge/Progress-13%2F100%20Days-brightgreen.svg)](#-progress-log)
- ![Coverage: 13%](https://img.shields.io/badge/Coverage-13%25-orange)
+[![Progress: 14/100](https://img.shields.io/badge/Progress-14%2F100%20Days-brightgreen.svg)](#-progress-log)
+ ![Coverage: 13%](https://img.shields.io/badge/Coverage-14%25-orange)
  
  [![Compiler: GCC](https://img.shields.io/badge/Compiler-GCC-00599C?style=flat&logo=gnu)](https://gcc.gnu.org/)
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
@@ -67,14 +67,16 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 ├── Day13
 │   ├── question25.c
 │   └── question26.c
+├── Day14
+│   ├── question27.c
+│   └── question28.c
 ├── gitignore.txt
 ├── LICENSE
 ├── Makefile
 └── README.md
 
+
 ```
-
-
 
 
 ## 📂 Repository Structure
@@ -92,6 +94,7 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 - 📁 [Day11/](./Day11)
 - 📁 [Day12/](./Day12)
 - 📁 [Day13/](./Day13)
+- 📁 [Day14/](./Day14)
 - 📄 [LICENSE](./LICENSE) — Dual MIT / GNU GPLv3 License
 - 📄 [README.md](./README.md) — Documentation
 
