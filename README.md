@@ -2,7 +2,7 @@
 
 [![Language: C](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Progress: 16/100](https://img.shields.io/badge/Progress-16%2F100%20Days-brightgreen.svg)](#-progress-log)
- ![Coverage: 16%](https://img.shields.io/badge/Coverage-14%25-orange)
+ ![Coverage: 16%](https://img.shields.io/badge/Coverage-16%25-orange)
  
  [![Compiler: GCC](https://img.shields.io/badge/Compiler-GCC-00599C?style=flat&logo=gnu)](https://gcc.gnu.org/)
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
