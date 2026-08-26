@@ -2,7 +2,7 @@
 
 [![C programming language badge showing the text Language C](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Progress badge showing 17 out of 100 days completed](https://img.shields.io/badge/Progress-17%2F100%20Days-brightgreen.svg)](#-progress-log)
-[![Coverage badge showing 17 percent complete](https://img.shields.io/badge/Coverage-17%25-orange)
+![Coverage badge showing 17 percent complete](https://img.shields.io/badge/Coverage-17%25-orange)
  
  [![Compiler badge showing GCC](https://img.shields.io/badge/Compiler-GCC-00599C?style=flat&logo=gnu)](https://gcc.gnu.org/)
 [![Platform badge showing Linux](https://img.shields.io/badge/Platform-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
