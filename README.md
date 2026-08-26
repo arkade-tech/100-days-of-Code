@@ -1,14 +1,14 @@
 # 100 Days of Code — C Programming Challenge
 
-[![Language: C](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Progress: 16/100](https://img.shields.io/badge/Progress-16%2F100%20Days-brightgreen.svg)](#-progress-log)
- ![Coverage: 16%](https://img.shields.io/badge/Coverage-16%25-orange)
+[![C programming language badge showing the text Language C](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Progress badge showing 17 out of 100 days completed](https://img.shields.io/badge/Progress-17%2F100%20Days-brightgreen.svg)](#-progress-log)
+[![Coverage badge showing 17 percent complete](https://img.shields.io/badge/Coverage-17%25-orange)
  
- [![Compiler: GCC](https://img.shields.io/badge/Compiler-GCC-00599C?style=flat&logo=gnu)](https://gcc.gnu.org/)
-[![Platform: Linux](https://img.shields.io/badge/Platform-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
-[![Last Commit](https://img.shields.io/github/last-commit/arkade-tech/100-days-of-Code?color=orange&style=flat)](https://github.com/YOUR_USERNAME/YOUR_REPO/commits/main)
+ [![Compiler badge showing GCC](https://img.shields.io/badge/Compiler-GCC-00599C?style=flat&logo=gnu)](https://gcc.gnu.org/)
+[![Platform badge showing Linux](https://img.shields.io/badge/Platform-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Last commit badge showing the latest commit status](https://img.shields.io/github/last-commit/arkade-tech/100-days-of-Code?color=orange&style=flat)](https://github.com/YOUR_USERNAME/YOUR_REPO/commits/main)
  
-[![License: MIT / GPL-3.0](https://img.shields.io/badge/License-MIT%20%2F%20GPL--3.0-blue.svg)](LICENSE)
+[![License badge showing MIT and GPL 3.0](https://img.shields.io/badge/License-MIT%20%2F%20GPL--3.0-blue.svg)](LICENSE)
 
 A dedicated repository containing daily problem solutions, algorithmic challenges, and memory management implementations in C.
 
@@ -76,6 +76,9 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 ├── Day16
 │   ├── question31.c
 │   └── question32.c
+├── Day 17
+│   ├── question33.c
+│   └── question34.c
 ├── gitignore.txt
 ├── LICENSE
 ├── Makefile
@@ -103,6 +106,7 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 - 📁 [Day14/](./Day14)
 - 📁 [Day15/](./Day15)
 - 📁 [Day16/](./Day16)
+- 📁 [Day17/](./Day17)
 - 📄 [LICENSE](./LICENSE) — Dual MIT / GNU GPLv3 License
 - 📄 [README.md](./README.md) — Documentation
 
