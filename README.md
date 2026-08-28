@@ -1,8 +1,8 @@
 # 100 Days of Code — C Programming Challenge
 
 [![C programming language badge showing the text Language C](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Progress badge showing 17 out of 100 days completed](https://img.shields.io/badge/Progress-17%2F100%20Days-brightgreen.svg)](#-progress-log)
-![Coverage badge showing 17 percent complete](https://img.shields.io/badge/Coverage-17%25-orange)
+[![Progress badge showing 19 out of 100 days completed](https://img.shields.io/badge/Progress-19%2F100%20Days-brightgreen.svg)](#-progress-log)
+![Coverage badge showing 19 percent complete](https://img.shields.io/badge/Coverage-19%25-orange)
  
  [![Compiler badge showing GCC](https://img.shields.io/badge/Compiler-GCC-00599C?style=flat&logo=gnu)](https://gcc.gnu.org/)
 [![Platform badge showing Linux](https://img.shields.io/badge/Platform-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
@@ -76,9 +76,15 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 ├── Day16
 │   ├── question31.c
 │   └── question32.c
-├── Day 17
+├── Day17
 │   ├── question33.c
 │   └── question34.c
+├── Day18
+│   ├── question35.c
+│   └── question36.c
+├── Day19
+│   ├── question37.c
+│   └── question38.c
 ├── gitignore.txt
 ├── LICENSE
 ├── Makefile
@@ -107,6 +113,8 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 - 📁 [Day15/](./Day15)
 - 📁 [Day16/](./Day16)
 - 📁 [Day17/](./Day17)
+- 📁 [Day18/](./Day18)
+- 📁 [Day19/](./Day19)
 - 📄 [LICENSE](./LICENSE) — Dual MIT / GNU GPLv3 License
 - 📄 [README.md](./README.md) — Documentation
 
