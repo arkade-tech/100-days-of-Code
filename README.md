@@ -1,8 +1,8 @@
 # 100 Days of Code — C Programming Challenge
 
 [![C programming language badge showing the text Language C](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Progress badge showing 19 out of 100 days completed](https://img.shields.io/badge/Progress-19%2F100%20Days-brightgreen.svg)](#-progress-log)
-![Coverage badge showing 19 percent complete](https://img.shields.io/badge/Coverage-19%25-orange)
+[![Progress badge showing 23 out of 100 days completed](https://img.shields.io/badge/Progress-23%2F100%20Days-brightgreen.svg)](#-progress-log)
+![Coverage badge showing 23 percent complete](https://img.shields.io/badge/Coverage-23%25-orange)
  
  [![Compiler badge showing GCC](https://img.shields.io/badge/Compiler-GCC-00599C?style=flat&logo=gnu)](https://gcc.gnu.org/)
 [![Platform badge showing Linux](https://img.shields.io/badge/Platform-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
@@ -26,7 +26,6 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 
 ## 📂 Basic Repository Structure
 ```text
-
 .
 ├── Day01
 │   ├── question1.c
@@ -85,6 +84,18 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 ├── Day19
 │   ├── question37.c
 │   └── question38.c
+├── Day20
+│   ├── question39.c
+│   └── question40.c
+├── Day21
+│   ├── question41.c
+│   └── question42.c
+├── Day22
+│   ├── question43.c
+│   └── question44.c
+├── Day23
+│   ├── question45.c
+│   └── question46.c
 ├── gitignore.txt
 ├── LICENSE
 ├── Makefile
@@ -115,6 +126,10 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 - 📁 [Day17/](./Day17)
 - 📁 [Day18/](./Day18)
 - 📁 [Day19/](./Day19)
+- 📁 [Day20/](./Day20)
+- 📁 [Day21/](./Day21)
+- 📁 [Day22/](./Day22)
+- 📁 [Day23/](./Day23)
 - 📄 [LICENSE](./LICENSE) — Dual MIT / GNU GPLv3 License
 - 📄 [README.md](./README.md) — Documentation
 
