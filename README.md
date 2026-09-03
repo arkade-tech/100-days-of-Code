@@ -1,8 +1,8 @@
 # 100 Days of Code — C Programming Challenge
 
 [![C programming language badge showing the text Language C](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Progress badge showing 23 out of 100 days completed](https://img.shields.io/badge/Progress-23%2F100%20Days-brightgreen.svg)](#-progress-log)
-![Coverage badge showing 23 percent complete](https://img.shields.io/badge/Coverage-23%25-orange)
+[![Progress badge showing 25 out of 100 days completed](https://img.shields.io/badge/Progress-25%2F100%20Days-brightgreen.svg)](#-progress-log)
+![Coverage badge showing 25 percent complete](https://img.shields.io/badge/Coverage-25%25-orange)
  
  [![Compiler badge showing GCC](https://img.shields.io/badge/Compiler-GCC-00599C?style=flat&logo=gnu)](https://gcc.gnu.org/)
 [![Platform badge showing Linux](https://img.shields.io/badge/Platform-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
@@ -96,6 +96,12 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 ├── Day23
 │   ├── question45.c
 │   └── question46.c
+├── Day24
+│   ├── question47.c
+│   └── question48.c
+├── Day25
+│   ├── question49.c
+│   └── question50.c
 ├── gitignore.txt
 ├── LICENSE
 ├── Makefile
@@ -130,6 +136,8 @@ A dedicated repository containing daily problem solutions, algorithmic challenge
 - 📁 [Day21/](./Day21)
 - 📁 [Day22/](./Day22)
 - 📁 [Day23/](./Day23)
+- 📁 [Day24/](./Day24)
+- 📁 [Day25/](./Day25)
 - 📄 [LICENSE](./LICENSE) — Dual MIT / GNU GPLv3 License
 - 📄 [README.md](./README.md) — Documentation
 
